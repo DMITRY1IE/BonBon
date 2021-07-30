@@ -201,7 +201,7 @@ main {
 main .first-screen {
   height: 70vw;
   background-color: gray;
-  background: url(/img/05d52994da6ec9e0232604cbd714d854.jpg);
+  background: url(../img/05d52994da6ec9e0232604cbd714d854.jpg);
   background-size: 100% 100%;
   background-position: center;
   display: -webkit-box;
@@ -267,7 +267,7 @@ main .man {
 }
 
 main .man .man-img {
-  background: url(/img/man_1.jpg);
+  background: url(../img/man_1.jpg);
   background-size: 100% 100%;
   background-position: center;
   display: -webkit-box;
@@ -388,7 +388,7 @@ main .women .women-info p {
 }
 
 main .women .women-img {
-  background: url(/img/women_2.jpg);
+  background: url(../img/women_2.jpg);
   background-size: 100% 100%;
   background-position: center;
   display: -webkit-box;
@@ -439,7 +439,7 @@ main .my-jobs {
 }
 
 main .my-jobs .my-jobs__img {
-  background: url(/img/my_jobs_1.jpg);
+  background: url(../img/my_jobs_1.jpg);
   background-size: 100% 100%;
   background-position: center;
   display: -webkit-box;

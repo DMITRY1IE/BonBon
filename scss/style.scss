@@ -123,7 +123,7 @@ main {
     .first-screen {
         height: 70vw;
         background-color: gray;
-        background: url(/img/05d52994da6ec9e0232604cbd714d854.jpg);
+        background: url(../img/05d52994da6ec9e0232604cbd714d854.jpg);
         background-size: 100% 100%;
         background-position: center;
         display: flex;
@@ -163,7 +163,7 @@ main {
         grid-template-columns: 1fr 1.1fr;
         .man-img {
             // background-color: aqua;
-            background: url(/img/man_1.jpg);
+            background: url(../img/man_1.jpg);
             background-size: 100% 100%;
             background-position: center;
             display: flex;
@@ -248,7 +248,7 @@ main {
         }
         .women-img {
             // background-color: cadetblue;
-            background: url(/img/women_2.jpg);
+            background: url(../img/women_2.jpg);
             background-size: 100% 100%;
             background-position: center;
             display: flex;
@@ -287,7 +287,7 @@ main {
         grid-template-columns: 1fr 1.1fr;
         .my-jobs__img {
             // background-color: gold;
-            background: url(/img/my_jobs_1.jpg);
+            background: url(../img/my_jobs_1.jpg);
             background-size: 100% 100%;
             background-position: center;
             display: flex;
