@@ -1,0 +1,128 @@
+@media (max-width: 1140px) {
+    header {
+        .second-line {
+            .container {
+                margin-left: 20px;
+                margin-right: 20px;
+                .second-line__logo {
+                    p {
+                    }
+                }
+                .navbar {
+                    .hamburger-menu {
+                        .line {
+                        }
+                        .line-1 {
+                        }
+                        .line-2 {
+                        }
+                        .line-3 {
+                        }
+                    }
+                    nav {
+                        &.open {
+                        }
+                        ul {
+                            li {
+                                a {
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    }
+}
+
+@media (max-width: 700px) {
+    header {
+        height: 45px;
+        .second-line {
+            .container {
+                .second-line__logo {
+                    p {
+                        font-size: 20px;
+                    }
+                }
+                .navbar {
+                    .hamburger-menu {
+                        .line {
+                        }
+                        .line-1 {
+                        }
+                        .line-2 {
+                        }
+                        .line-2 {
+                        }
+                    }
+                }
+            }
+        }
+    }
+    main {
+        .first-screen {
+            .first-screen__logo {
+            }
+        }
+        .man {
+            .man-img {
+            }
+            .button-link__1 {
+            }
+            .man-info {
+            }
+        }
+        .women {
+            .women-info {
+            }
+            .women-img {
+            }
+            .button-link__2 {
+            }
+        }
+        .my-jobs {
+            .my-jobs__img {
+            }
+            .button-link__3 {
+            }
+            .my-jobs__info {
+            }
+        }
+    }
+    footer {
+        .footer {
+            .container {
+            }
+        }
+    }
+}
+@media (max-width: 400px) {
+    header {
+        height: 30px;
+        .second-line {
+            .container {
+                .second-line__logo {
+                    p {
+                        font-size: 20px;
+                    }
+                }
+                .navbar {
+                    .hamburger-menu {
+                        width: 20px;
+                        height: 15px;
+                        .line {
+                            height: 2px;
+                        }
+                        .line-1 {
+                        }
+                        .line-2 {
+                        }
+                        .line-2 {
+                        }
+                    }
+                }
+            }
+        }
+    }
+}
