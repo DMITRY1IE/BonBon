@@ -33,6 +33,48 @@
             }
         }
     }
+    main {
+        .first-screen {
+            .first-screen__logo {
+            }
+        }
+        .man {
+            .man-img {
+                width: 100%;
+                .button-link__1 {
+                }
+            }
+            .man-info {
+                width: 100%;
+            }
+        }
+        .women {
+            .women-info {
+                width: 100%;
+            }
+            .women-img {
+                width: 100%;
+                .button-link__2 {
+                }
+            }
+        }
+        .my-jobs {
+            .my-jobs__img {
+                width: 100%;
+                .button-link__3 {
+                }
+            }
+            .my-jobs__info {
+                width: 100%;
+            }
+        }
+    }
+    footer {
+        .footer {
+            .container {
+            }
+        }
+    }
 }
 
 @media (max-width: 700px) {
@@ -67,9 +109,10 @@
         }
         .man {
             .man-img {
+                .button-link__1 {
+                }
             }
-            .button-link__1 {
-            }
+
             .man-info {
             }
         }
@@ -77,15 +120,16 @@
             .women-info {
             }
             .women-img {
-            }
-            .button-link__2 {
+                .button-link__2 {
+                }
             }
         }
         .my-jobs {
             .my-jobs__img {
+                .button-link__3 {
+                }
             }
-            .button-link__3 {
-            }
+
             .my-jobs__info {
             }
         }

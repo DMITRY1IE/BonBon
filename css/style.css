@@ -4,6 +4,24 @@
     margin-left: 20px;
     margin-right: 20px;
   }
+  main .man .man-img {
+    width: 100%;
+  }
+  main .man .man-info {
+    width: 100%;
+  }
+  main .women .women-info {
+    width: 100%;
+  }
+  main .women .women-img {
+    width: 100%;
+  }
+  main .my-jobs .my-jobs__img {
+    width: 100%;
+  }
+  main .my-jobs .my-jobs__info {
+    width: 100%;
+  }
 }
 
 @media (max-width: 700px) {
